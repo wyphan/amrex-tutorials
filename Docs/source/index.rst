@@ -10,14 +10,17 @@ applications. AMReX is freely available at https://github.com/AMReX-Codes/amrex.
 
 There is extensive documentation for AMReX at :ref:`amrex_docs:amrex_doc_indx`
 
-AMReX Tutorials are a set of small stand-alone example codes that demonstrate how
-to use different parts of the AMReX functionality. You can also work through a set
-of AMReX tutorials online `here <https://github.com/atmyers/ecp-tutorials>`_, without
-needing to install any dependencies or download any code to your local machine. For
-accompanying slides, see `here <https://amrex-codes.github.io/amrex/tutorial_slides.pdf>`_.
+AMReX Tutorials are a set of small stand-alone example codes that demonstrate
+how to use different parts of the AMReX functionality. You can also work
+through a set of AMReX tutorials online
+`here <https://github.com/atmyers/ecp-tutorials>`_,
+without needing to install any dependencies or download any code to your local
+machine. You can access the
+`accompanying slides here <https://amrex-codes.github.io/amrex/tutorial_slides.pdf>`_.
 
 We are always happy to have users contribute to AMReX Tutorials as well as
-the AMReX source code. To contribute, issue a pull request against the development branch
+the AMReX source code. To contribute, issue a pull request against the
+`main` branch
 (details at https://help.github.com/articles/creating-a-pull-request/).
 
 
@@ -47,9 +50,10 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-The copyright notice of AMReX is included in the AMReX home directory as README.md.
+The copyright notice of AMReX is included in the AMReX home directory as
+`README.md`.
 
-Your use of this software is under the 3-clause BSD license -- the license agreement is included in the
-AMReX home directory as license.txt.
+Your use of this software is under the 3-clause BSD license -- the license
+agreement is included in the AMReX home directory as `license.txt`.
 
 For a pdf version of this documentation, click :download:`here <amrex.pdf>`.
